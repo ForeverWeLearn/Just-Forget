@@ -1,4 +1,4 @@
-# Just Forgot 🧠
+# Just Forget 🧠
 
 Inspired by [https://write.sonnet.io/](https://write.sonnet.io/)
   
