@@ -1,6 +1,6 @@
 # Just Forgot 🧠
 
-Inspiped by [https://write.sonnet.io/](https://write.sonnet.io/)
+Inspired by [https://write.sonnet.io/](https://write.sonnet.io/)
   
 It make writing so fun by force you to forget things...
 
