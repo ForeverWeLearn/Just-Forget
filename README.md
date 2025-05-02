@@ -1,7 +1,15 @@
-# Tauri + SvelteKit + TypeScript
+# Just Forgot 🧠
 
-This template should help get you started developing with Tauri, SvelteKit and TypeScript in Vite.
+Inspiped by [https://write.sonnet.io/](https://write.sonnet.io/)
+  
+It make writing so fun by force you to forget things...
 
-## Recommended IDE Setup
+![Screenshot](./screenshots/000.jpg)
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+Minimal, ready to write...
+
+> Note: For now, it can't open or save file, but copy is ok 😅.
+
+`ESC` to show **Keyboard Shortcuts**
+
+![Shortcuts](./screenshots/001.jpg)
