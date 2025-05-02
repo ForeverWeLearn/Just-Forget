@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+:root {
+    --font-mono: 'Space Mono', monospace;
+
+    --color-text: #dfdfdf;
+    --color-text-dim: #969696;
+
+    --color-background: #292c3c;
+    --color-background-dim: #1e202b;
+
+    --color-primary: #ae6eec;
+    --color-primary-shade: #cba4f4;
+
+    --color-secondary: #f9569b;
+    --color-secondary-shade: #c60656;
+
+    --color-accent: #ffffff;
+
+    --color-error: #ee6e6e;
+
+    --color-success: #a6ed6d;
+
+    --color-fade: rgba(26, 21, 30, 0.3);
+}
+
+* {
+    user-select: none;
+    box-sizing: border-box;
+    word-break: break-word;
+}
+
+*::selection {
+    color: var(--color-primary);
+}
+
+body {
+    overflow: hidden;
+    font-family: var(--font-mono);
+    color: var(--color-text);
+    background-color: var(--color-background);
+    height: 100vh;
+    margin: 0;
+}
